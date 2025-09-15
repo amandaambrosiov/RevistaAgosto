@@ -377,6 +377,10 @@ header {
     font-weight: 400;
 }
 
+.presenciais h3 {
+    font-size: 1.3rem;
+}
+
 .cursos li {
     list-style: none;
 }

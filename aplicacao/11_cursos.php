@@ -17,7 +17,7 @@ include 'layout/head.php';
             <img src="assets/imgs/materia01.jpg" class="img_curso" alt="">
         </div>
 
-        <h2 class="title-page title-cursos" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="300">Cursos Disponíveis EaD</h2>
+        <h2 class="title-page title-cursos" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="300">Programação de Cursos EaD</h2>
 
         <div class="wrapper">
             <div class="coluna-cursos">
@@ -78,7 +78,7 @@ include 'layout/head.php';
 
                 <div data-aos="fade-right" data-aos-duration="1500" data-aos-delay="900" class="card-cursos">
                     <h3>Informações importantes</h3>
-                    <p><strong>Inscrições:</strong> 1 a 31 de agosto</p>
+                    <p><strong>Inscrições:</strong> 1 a 31 de Setembro</p>
                     <p><strong>Realização:</strong> Cursos de 20h, 30h e 40h - 30 dias após a inscrição <br> Cursos de 60h, 80h e 100h - 60 dias após a inscrição</p>
                     <p><strong>Público participante:</strong> servidores, colaboradores e sociedade civil.</p>
                     <p><a href="https://escola.egp.ce.gov.br/?modalidade[0]=EAD">Catálogo</a></p>
